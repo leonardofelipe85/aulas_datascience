@@ -1,0 +1,289 @@
+data,plataforma,campanha,criativo,publico,dispositivos,posicionamento,impressoes,cliques,gasto,conversoes,receita,ctr,cpc,cpa,roas,taxa_conversao
+2025-05-01,TikTok Ads,Cyber Monday,Imagem,Lookalike,Mobile,Reels,20795,998,392.8,97,17452.86,4.8,0.39,4.05,44.43,9.72
+2025-05-01,Google Ads,Cyber Monday,Carrossel,Frio,Mobile,Stories,49131,772,360.36,21,2702.98,1.57,0.47,17.16,7.5,2.72
+2025-05-01,TikTok Ads,Cyber Monday,Carrossel,Lookalike,Desktop,Reels,32480,703,344.74,26,2791.6,2.16,0.49,13.26,8.1,3.7
+2025-05-01,Meta Ads,Black Friday,Imagem,Quente,Desktop,Feed,6267,211,118.58,20,3896.9,3.37,0.56,5.93,32.86,9.48
+2025-05-01,TikTok Ads,Verão,Imagem,Frio,Desktop,Reels,13433,341,106.39,17,1292.08,2.54,0.31,6.26,12.14,4.99
+2025-05-01,Google Ads,Cyber Monday,Carrossel,Quente,Mobile,Reels,40920,832,365.01,50,8817.14,2.03,0.44,7.3,24.16,6.01
+2025-05-01,TikTok Ads,Verão,Carrossel,Lookalike,Desktop,Feed,10675,507,457.93,49,9514.61,4.75,0.9,9.35,20.78,9.66
+2025-05-01,Google Ads,Black Friday,Collection,Frio,Mobile,Feed,29276,747,208.54,95,16181.31,2.55,0.28,2.2,77.59,12.72
+2025-05-01,TikTok Ads,Ano Novo,Imagem,Frio,Desktop,Reels,45774,1232,257.95,71,11965.37,2.69,0.21,3.63,46.39,5.76
+2025-05-01,TikTok Ads,Black Friday,Collection,Quente,Mobile,Reels,17666,228,243.39,7,676.53,1.29,1.07,34.77,2.78,3.07
+2025-05-01,TikTok Ads,Black Friday,Imagem,Frio,Mobile,Stories,19039,697,336.52,38,6738.81,3.66,0.48,8.86,20.02,5.45
+2025-05-02,TikTok Ads,Cyber Monday,Carrossel,Frio,Mobile,Reels,38270,1562,297.52,137,25257.94,4.08,0.19,2.17,84.89,8.77
+2025-05-02,TikTok Ads,Black Friday,Imagem,Lookalike,Mobile,Feed,46523,1513,378.21,57,3508.18,3.25,0.25,6.64,9.28,3.77
+2025-05-02,Google Ads,Black Friday,Video 15s,Quente,Desktop,Stories,14914,563,452.19,56,10219.55,3.77,0.8,8.07,22.6,9.95
+2025-05-02,Meta Ads,Black Friday,Video 15s,Lookalike,Desktop,Feed,23047,974,458.44,59,10189.43,4.23,0.47,7.77,22.23,6.06
+2025-05-02,Meta Ads,Black Friday,Imagem,Quente,Desktop,Reels,14474,148,304.3,10,752.44,1.02,2.06,30.43,2.47,6.76
+2025-05-02,Google Ads,Verão,Collection,Quente,Mobile,Stories,35303,1141,261.53,32,5018.9,3.23,0.23,8.17,19.19,2.8
+2025-05-02,Google Ads,Verão,Carrossel,Lookalike,Mobile,Feed,6636,141,114.75,13,1886.99,2.12,0.81,8.83,16.44,9.22
+2025-05-02,TikTok Ads,Ano Novo,Collection,Lookalike,Mobile,Reels,26556,785,494.26,40,6818.84,2.96,0.63,12.36,13.8,5.1
+2025-05-02,Meta Ads,Black Friday,Collection,Lookalike,Desktop,Feed,45772,1615,353.41,144,25740.55,3.53,0.22,2.45,72.83,8.92
+2025-05-03,TikTok Ads,Verão,Video 15s,Frio,Desktop,Reels,11546,443,423.8,28,5334.27,3.84,0.96,15.14,12.59,6.32
+2025-05-03,TikTok Ads,Cyber Monday,Carrossel,Lookalike,Mobile,Stories,42504,1573,394.09,74,14602.07,3.7,0.25,5.33,37.05,4.7
+2025-05-03,Meta Ads,Black Friday,Collection,Lookalike,Mobile,Feed,21371,666,196.74,21,1928.44,3.12,0.3,9.37,9.8,3.15
+2025-05-03,Meta Ads,Verão,Collection,Lookalike,Mobile,Stories,47642,1859,458.84,251,37737.41,3.9,0.25,1.83,82.25,13.5
+2025-05-03,Google Ads,Cyber Monday,Carrossel,Quente,Mobile,Feed,7557,359,489.47,20,1672.81,4.75,1.36,24.47,3.42,5.57
+2025-05-03,TikTok Ads,Ano Novo,Video 15s,Frio,Desktop,Reels,29736,318,297.56,13,1367.05,1.07,0.94,22.89,4.59,4.09
+2025-05-03,TikTok Ads,Cyber Monday,Collection,Lookalike,Mobile,Stories,24830,497,335.95,73,7483.36,2.0,0.68,4.6,22.28,14.69
+2025-05-03,Meta Ads,Verão,Imagem,Lookalike,Desktop,Feed,37352,1235,297.01,56,3166.27,3.31,0.24,5.3,10.66,4.53
+2025-05-04,Meta Ads,Cyber Monday,Video 15s,Lookalike,Mobile,Feed,48525,1203,106.18,169,10360.03,2.48,0.09,0.63,97.57,14.05
+2025-05-04,Google Ads,Black Friday,Carrossel,Lookalike,Desktop,Stories,15492,393,440.45,24,4548.06,2.54,1.12,18.35,10.33,6.11
+2025-05-04,TikTok Ads,Ano Novo,Carrossel,Quente,Desktop,Feed,41631,764,368.46,50,8865.02,1.84,0.48,7.37,24.06,6.54
+2025-05-04,TikTok Ads,Cyber Monday,Imagem,Quente,Mobile,Feed,45328,1726,243.8,100,6223.91,3.81,0.14,2.44,25.53,5.79
+2025-05-04,Google Ads,Verão,Carrossel,Lookalike,Mobile,Reels,29376,1031,177.71,30,3190.12,3.51,0.17,5.92,17.95,2.91
+2025-05-04,Google Ads,Ano Novo,Carrossel,Frio,Desktop,Stories,18121,499,368.81,31,5550.88,2.75,0.74,11.9,15.05,6.21
+2025-05-04,Meta Ads,Black Friday,Collection,Frio,Desktop,Feed,36024,414,429.04,27,3201.92,1.15,1.04,15.89,7.46,6.52
+2025-05-04,Meta Ads,Cyber Monday,Collection,Quente,Desktop,Reels,5876,104,264.54,11,1862.06,1.77,2.54,24.05,7.04,10.58
+2025-05-04,Google Ads,Black Friday,Carrossel,Lookalike,Mobile,Feed,22214,607,397.62,31,4751.52,2.73,0.66,12.83,11.95,5.11
+2025-05-05,Google Ads,Verão,Video 15s,Frio,Mobile,Feed,6081,283,276.94,14,2705.22,4.65,0.98,19.78,9.77,4.95
+2025-05-05,Google Ads,Verão,Imagem,Frio,Desktop,Feed,34375,1105,344.69,82,8305.12,3.21,0.31,4.2,24.09,7.42
+2025-05-05,Meta Ads,Verão,Collection,Quente,Desktop,Feed,14435,170,116.29,22,2662.46,1.18,0.68,5.29,22.9,12.94
+2025-05-05,Google Ads,Verão,Imagem,Quente,Desktop,Reels,42220,1095,346.34,112,14052.69,2.59,0.32,3.09,40.57,10.23
+2025-05-05,TikTok Ads,Cyber Monday,Video 15s,Lookalike,Desktop,Stories,46975,1707,165.17,49,6664.25,3.63,0.1,3.37,40.35,2.87
+2025-05-06,Meta Ads,Black Friday,Collection,Quente,Mobile,Feed,9000,382,428.26,38,2295.36,4.24,1.12,11.27,5.36,9.95
+2025-05-06,TikTok Ads,Black Friday,Carrossel,Frio,Desktop,Stories,43494,1091,115.59,109,5830.5,2.51,0.11,1.06,50.44,9.99
+2025-05-06,Google Ads,Black Friday,Imagem,Frio,Desktop,Feed,5417,110,298.41,12,2046.27,2.03,2.71,24.87,6.86,10.91
+2025-05-06,TikTok Ads,Black Friday,Imagem,Quente,Mobile,Reels,32384,1033,269.39,97,13296.92,3.19,0.26,2.78,49.36,9.39
+2025-05-06,Meta Ads,Ano Novo,Video 15s,Lookalike,Mobile,Stories,28190,1331,443.37,100,18538.29,4.72,0.33,4.43,41.81,7.51
+2025-05-07,Meta Ads,Black Friday,Imagem,Frio,Mobile,Stories,5728,130,458.21,9,1363.64,2.27,3.52,50.91,2.98,6.92
+2025-05-07,TikTok Ads,Verão,Video 15s,Lookalike,Mobile,Feed,37307,1228,352.73,96,16198.74,3.29,0.29,3.67,45.92,7.82
+2025-05-07,Google Ads,Ano Novo,Carrossel,Frio,Mobile,Reels,32192,468,472.37,68,8968.34,1.45,1.01,6.95,18.99,14.53
+2025-05-07,Meta Ads,Black Friday,Carrossel,Lookalike,Desktop,Feed,29394,431,157.2,51,4252.71,1.47,0.36,3.08,27.05,11.83
+2025-05-07,Google Ads,Ano Novo,Collection,Frio,Mobile,Stories,32569,1487,158.64,128,22005.75,4.57,0.11,1.24,138.72,8.61
+2025-05-07,TikTok Ads,Ano Novo,Video 15s,Quente,Mobile,Reels,45262,2237,401.35,154,13445.53,4.94,0.18,2.61,33.5,6.88
+2025-05-07,Google Ads,Cyber Monday,Collection,Frio,Mobile,Feed,33178,479,297.05,10,1616.32,1.44,0.62,29.7,5.44,2.09
+2025-05-07,Meta Ads,Black Friday,Collection,Frio,Desktop,Feed,44298,1476,484.87,101,19642.82,3.33,0.33,4.8,40.51,6.84
+2025-05-08,TikTok Ads,Ano Novo,Collection,Frio,Desktop,Reels,25559,795,497.19,23,3321.43,3.11,0.63,21.62,6.68,2.89
+2025-05-08,TikTok Ads,Verão,Imagem,Frio,Mobile,Stories,43413,945,498.33,104,20026.42,2.18,0.53,4.79,40.19,11.01
+2025-05-08,Google Ads,Verão,Collection,Quente,Desktop,Stories,26447,681,142.7,43,3629.6,2.57,0.21,3.32,25.44,6.31
+2025-05-08,Google Ads,Ano Novo,Video 15s,Frio,Mobile,Feed,38307,502,489.76,74,12733.12,1.31,0.98,6.62,26.0,14.74
+2025-05-08,Google Ads,Cyber Monday,Imagem,Frio,Mobile,Feed,40547,844,153.27,25,2818.41,2.08,0.18,6.13,18.39,2.96
+2025-05-08,Meta Ads,Cyber Monday,Video 15s,Quente,Desktop,Reels,24255,1093,320.64,45,3265.31,4.51,0.29,7.13,10.18,4.12
+2025-05-08,Meta Ads,Black Friday,Carrossel,Frio,Mobile,Reels,28833,727,487.97,94,8555.04,2.52,0.67,5.19,17.53,12.93
+2025-05-08,Meta Ads,Cyber Monday,Imagem,Frio,Mobile,Feed,45943,597,376.69,53,8422.66,1.3,0.63,7.11,22.36,8.88
+2025-05-08,Google Ads,Black Friday,Imagem,Frio,Mobile,Stories,9809,431,198.94,33,5997.19,4.39,0.46,6.03,30.15,7.66
+2025-05-09,Google Ads,Cyber Monday,Carrossel,Quente,Mobile,Reels,47783,567,207.47,12,1154.0,1.19,0.37,17.29,5.56,2.12
+2025-05-09,Meta Ads,Black Friday,Collection,Lookalike,Mobile,Reels,47944,1537,324.38,205,33470.47,3.21,0.21,1.58,103.18,13.34
+2025-05-09,Google Ads,Cyber Monday,Carrossel,Quente,Desktop,Stories,44764,1592,422.02,218,29042.47,3.56,0.27,1.94,68.82,13.69
+2025-05-09,Google Ads,Ano Novo,Carrossel,Lookalike,Mobile,Feed,15209,363,305.6,44,7456.71,2.39,0.84,6.95,24.4,12.12
+2025-05-09,Google Ads,Cyber Monday,Video 15s,Quente,Mobile,Stories,24856,737,203.3,58,8410.59,2.97,0.28,3.51,41.37,7.87
+2025-05-09,TikTok Ads,Ano Novo,Carrossel,Frio,Mobile,Reels,17015,402,314.91,32,4073.13,2.36,0.78,9.84,12.93,7.96
+2025-05-09,Google Ads,Verão,Carrossel,Frio,Desktop,Feed,15161,516,189.54,65,8599.97,3.4,0.37,2.92,45.37,12.6
+2025-05-09,Google Ads,Black Friday,Imagem,Frio,Desktop,Feed,44144,1070,457.69,39,4764.7,2.42,0.43,11.74,10.41,3.64
+2025-05-09,Meta Ads,Black Friday,Carrossel,Frio,Desktop,Feed,48221,639,449.43,89,12423.66,1.33,0.7,5.05,27.64,13.93
+2025-05-09,Google Ads,Verão,Imagem,Quente,Desktop,Stories,27195,499,248.19,41,6646.95,1.83,0.5,6.05,26.78,8.22
+2025-05-09,TikTok Ads,Cyber Monday,Imagem,Lookalike,Desktop,Feed,9621,153,153.25,16,2881.32,1.59,1.0,9.58,18.8,10.46
+2025-05-09,Meta Ads,Verão,Carrossel,Lookalike,Mobile,Feed,28333,886,196.99,48,3922.43,3.13,0.22,4.1,19.91,5.42
+2025-05-10,TikTok Ads,Black Friday,Video 15s,Quente,Mobile,Reels,9632,439,337.44,47,7544.6,4.56,0.77,7.18,22.36,10.71
+2025-05-10,Meta Ads,Black Friday,Carrossel,Quente,Desktop,Stories,17910,713,272.66,26,2252.98,3.98,0.38,10.49,8.26,3.65
+2025-05-10,Google Ads,Black Friday,Carrossel,Quente,Mobile,Stories,15554,769,342.31,39,3041.42,4.94,0.45,8.78,8.88,5.07
+2025-05-10,TikTok Ads,Ano Novo,Collection,Frio,Desktop,Reels,15589,263,458.71,8,1475.93,1.69,1.74,57.34,3.22,3.04
+2025-05-10,Meta Ads,Cyber Monday,Collection,Quente,Mobile,Stories,46427,2264,446.2,285,53980.82,4.88,0.2,1.57,120.98,12.59
+2025-05-10,Meta Ads,Cyber Monday,Carrossel,Quente,Desktop,Reels,5846,183,290.65,23,1838.3,3.13,1.59,12.64,6.32,12.57
+2025-05-10,Google Ads,Black Friday,Carrossel,Lookalike,Mobile,Feed,41976,1309,382.89,156,20262.59,3.12,0.29,2.45,52.92,11.92
+2025-05-10,Google Ads,Verão,Carrossel,Frio,Desktop,Stories,25128,622,281.71,56,3538.09,2.48,0.45,5.03,12.56,9.0
+2025-05-10,Google Ads,Ano Novo,Imagem,Quente,Mobile,Feed,6342,236,404.09,22,3907.4,3.72,1.71,18.37,9.67,9.32
+2025-05-10,Meta Ads,Cyber Monday,Collection,Lookalike,Mobile,Feed,17219,836,149.72,96,15472.14,4.86,0.18,1.56,103.34,11.48
+2025-05-10,Meta Ads,Cyber Monday,Collection,Quente,Mobile,Feed,48925,583,412.61,74,5769.1,1.19,0.71,5.58,13.98,12.69
+2025-05-10,Meta Ads,Cyber Monday,Video 15s,Quente,Desktop,Reels,24282,888,309.23,59,9266.97,3.66,0.35,5.24,29.97,6.64
+2025-05-10,TikTok Ads,Black Friday,Video 15s,Frio,Mobile,Reels,44711,1274,220.55,149,16029.97,2.85,0.17,1.48,72.68,11.7
+2025-05-10,Google Ads,Cyber Monday,Imagem,Lookalike,Mobile,Stories,23381,296,191.61,26,1843.16,1.27,0.65,7.37,9.62,8.78
+2025-05-11,Meta Ads,Black Friday,Video 15s,Lookalike,Mobile,Feed,30053,1375,415.44,54,2971.61,4.58,0.3,7.69,7.15,3.93
+2025-05-11,Google Ads,Cyber Monday,Video 15s,Lookalike,Mobile,Feed,24029,926,297.59,109,7534.44,3.85,0.32,2.73,25.32,11.77
+2025-05-11,Meta Ads,Cyber Monday,Imagem,Lookalike,Mobile,Reels,45631,1373,315.94,114,15370.19,3.01,0.23,2.77,48.65,8.3
+2025-05-11,Google Ads,Verão,Carrossel,Quente,Desktop,Reels,38561,773,238.28,33,3936.93,2.0,0.31,7.22,16.52,4.27
+2025-05-11,Google Ads,Black Friday,Video 15s,Lookalike,Desktop,Reels,15541,537,464.74,20,3796.35,3.46,0.87,23.24,8.17,3.72
+2025-05-12,Google Ads,Black Friday,Collection,Lookalike,Desktop,Feed,20343,770,469.0,86,9771.29,3.79,0.61,5.45,20.83,11.17
+2025-05-12,Meta Ads,Cyber Monday,Video 15s,Frio,Desktop,Stories,44964,637,436.18,88,6859.44,1.42,0.68,4.96,15.73,13.81
+2025-05-12,TikTok Ads,Black Friday,Imagem,Frio,Mobile,Feed,24256,564,224.58,27,2182.6,2.33,0.4,8.32,9.72,4.79
+2025-05-12,Meta Ads,Cyber Monday,Imagem,Quente,Desktop,Reels,44224,450,233.4,32,3265.38,1.02,0.52,7.29,13.99,7.11
+2025-05-12,Google Ads,Verão,Video 15s,Lookalike,Desktop,Stories,41368,1385,113.14,192,10575.72,3.35,0.08,0.59,93.47,13.86
+2025-05-12,Meta Ads,Black Friday,Imagem,Frio,Desktop,Feed,42148,1400,352.91,30,2168.98,3.32,0.25,11.76,6.15,2.14
+2025-05-12,Meta Ads,Verão,Video 15s,Quente,Mobile,Reels,29917,401,498.75,34,2770.52,1.34,1.24,14.67,5.55,8.48
+2025-05-12,Google Ads,Verão,Collection,Lookalike,Desktop,Feed,32965,600,176.28,14,2328.61,1.82,0.29,12.59,13.21,2.33
+2025-05-13,TikTok Ads,Ano Novo,Collection,Frio,Desktop,Feed,33865,1062,292.44,89,5457.97,3.14,0.28,3.29,18.66,8.38
+2025-05-13,Meta Ads,Ano Novo,Imagem,Quente,Mobile,Feed,18087,377,458.97,33,3669.52,2.08,1.22,13.91,8.0,8.75
+2025-05-13,Google Ads,Black Friday,Imagem,Frio,Mobile,Reels,15998,322,178.45,27,3993.62,2.01,0.55,6.61,22.38,8.39
+2025-05-13,Google Ads,Ano Novo,Collection,Frio,Desktop,Feed,40822,1585,422.13,235,26075.33,3.88,0.27,1.8,61.77,14.83
+2025-05-13,TikTok Ads,Black Friday,Imagem,Frio,Mobile,Feed,5822,266,105.2,8,905.71,4.57,0.4,13.15,8.61,3.01
+2025-05-13,TikTok Ads,Cyber Monday,Imagem,Lookalike,Mobile,Feed,13705,636,349.9,40,4071.15,4.64,0.55,8.75,11.64,6.29
+2025-05-14,Meta Ads,Cyber Monday,Carrossel,Lookalike,Desktop,Reels,12083,226,489.82,27,4589.41,1.87,2.17,18.14,9.37,11.95
+2025-05-14,Meta Ads,Black Friday,Imagem,Frio,Desktop,Stories,33529,365,207.47,33,5782.9,1.09,0.57,6.29,27.87,9.04
+2025-05-14,Google Ads,Cyber Monday,Collection,Frio,Desktop,Feed,46401,2135,376.49,232,21137.12,4.6,0.18,1.62,56.14,10.87
+2025-05-14,Meta Ads,Cyber Monday,Carrossel,Frio,Mobile,Feed,44952,1178,298.99,133,11966.64,2.62,0.25,2.25,40.02,11.29
+2025-05-14,TikTok Ads,Cyber Monday,Video 15s,Frio,Desktop,Feed,34402,1166,340.21,124,13326.38,3.39,0.29,2.74,39.17,10.63
+2025-05-14,TikTok Ads,Black Friday,Collection,Lookalike,Desktop,Feed,41397,491,166.51,56,6070.08,1.19,0.34,2.97,36.45,11.41
+2025-05-14,Google Ads,Cyber Monday,Imagem,Lookalike,Desktop,Stories,29063,1354,388.61,134,9413.53,4.66,0.29,2.9,24.22,9.9
+2025-05-14,TikTok Ads,Verão,Imagem,Frio,Desktop,Reels,28863,536,112.47,28,3906.74,1.86,0.21,4.02,34.74,5.22
+2025-05-14,Meta Ads,Black Friday,Video 15s,Frio,Mobile,Stories,5481,191,289.69,12,1427.43,3.48,1.52,24.14,4.93,6.28
+2025-05-14,Google Ads,Cyber Monday,Carrossel,Lookalike,Mobile,Reels,29354,1255,419.77,138,25888.39,4.28,0.33,3.04,61.67,11.0
+2025-05-14,Google Ads,Verão,Collection,Lookalike,Desktop,Reels,40772,1696,376.22,148,25305.66,4.16,0.22,2.54,67.26,8.73
+2025-05-14,Google Ads,Black Friday,Collection,Lookalike,Mobile,Stories,6750,263,354.89,38,2194.1,3.9,1.35,9.34,6.18,14.45
+2025-05-14,Meta Ads,Cyber Monday,Carrossel,Lookalike,Desktop,Reels,32935,1258,470.1,54,8349.1,3.82,0.37,8.71,17.76,4.29
+2025-05-15,Google Ads,Ano Novo,Carrossel,Lookalike,Mobile,Stories,16122,757,488.42,108,13863.44,4.7,0.65,4.52,28.38,14.27
+2025-05-15,Meta Ads,Cyber Monday,Imagem,Frio,Mobile,Stories,5614,64,338.51,3,476.15,1.14,5.29,112.84,1.41,4.69
+2025-05-15,Google Ads,Black Friday,Video 15s,Quente,Mobile,Feed,17651,580,421.59,52,7403.73,3.29,0.73,8.11,17.56,8.97
+2025-05-15,TikTok Ads,Ano Novo,Video 15s,Frio,Desktop,Reels,20229,540,284.78,80,4840.36,2.67,0.53,3.56,17.0,14.81
+2025-05-15,Meta Ads,Verão,Video 15s,Lookalike,Mobile,Stories,46773,1123,406.88,81,5164.15,2.4,0.36,5.02,12.69,7.21
+2025-05-15,TikTok Ads,Black Friday,Carrossel,Quente,Desktop,Stories,29574,794,395.03,40,3401.65,2.68,0.5,9.88,8.61,5.04
+2025-05-15,TikTok Ads,Black Friday,Video 15s,Lookalike,Desktop,Feed,45600,961,464.14,24,4030.84,2.11,0.48,19.34,8.68,2.5
+2025-05-15,TikTok Ads,Cyber Monday,Video 15s,Quente,Mobile,Reels,46898,1573,492.93,212,42119.16,3.35,0.31,2.33,85.45,13.48
+2025-05-15,TikTok Ads,Cyber Monday,Video 15s,Quente,Mobile,Feed,20934,402,432.26,14,2710.27,1.92,1.08,30.88,6.27,3.48
+2025-05-15,Meta Ads,Black Friday,Imagem,Quente,Mobile,Feed,19199,460,123.14,67,5965.35,2.4,0.27,1.84,48.44,14.57
+2025-05-15,TikTok Ads,Cyber Monday,Video 15s,Frio,Mobile,Feed,23850,961,378.41,38,5279.76,4.03,0.39,9.96,13.95,3.95
+2025-05-15,TikTok Ads,Verão,Video 15s,Frio,Mobile,Feed,39701,1762,282.97,124,22050.8,4.44,0.16,2.28,77.93,7.04
+2025-05-15,TikTok Ads,Cyber Monday,Collection,Lookalike,Desktop,Reels,33841,1434,362.1,131,20765.21,4.24,0.25,2.76,57.35,9.14
+2025-05-16,Meta Ads,Black Friday,Video 15s,Quente,Desktop,Feed,46873,620,188.07,67,8179.9,1.32,0.3,2.81,43.49,10.81
+2025-05-16,TikTok Ads,Black Friday,Video 15s,Frio,Desktop,Reels,7396,342,328.53,36,6488.07,4.62,0.96,9.13,19.75,10.53
+2025-05-16,TikTok Ads,Black Friday,Video 15s,Frio,Desktop,Reels,7139,314,446.92,35,5419.7,4.4,1.42,12.77,12.13,11.15
+2025-05-16,TikTok Ads,Ano Novo,Carrossel,Quente,Desktop,Reels,27534,1246,484.53,100,8429.38,4.53,0.39,4.85,17.4,8.03
+2025-05-16,Meta Ads,Verão,Imagem,Quente,Desktop,Feed,47534,781,427.19,100,14253.9,1.64,0.55,4.27,33.37,12.8
+2025-05-16,Meta Ads,Ano Novo,Collection,Quente,Mobile,Stories,6136,198,146.34,13,685.93,3.23,0.74,11.26,4.69,6.57
+2025-05-16,Google Ads,Black Friday,Video 15s,Quente,Desktop,Stories,26736,1297,236.75,132,25356.5,4.85,0.18,1.79,107.1,10.18
+2025-05-16,Google Ads,Verão,Imagem,Quente,Desktop,Stories,19859,252,332.87,16,3136.37,1.27,1.32,20.8,9.42,6.35
+2025-05-16,TikTok Ads,Black Friday,Imagem,Frio,Desktop,Reels,29860,831,359.03,80,9863.72,2.78,0.43,4.49,27.47,9.63
+2025-05-16,Google Ads,Black Friday,Collection,Frio,Mobile,Feed,32570,654,100.41,26,4631.42,2.01,0.15,3.86,46.13,3.98
+2025-05-16,Google Ads,Ano Novo,Carrossel,Quente,Mobile,Reels,8342,348,377.47,16,2883.33,4.17,1.08,23.59,7.64,4.6
+2025-05-16,Meta Ads,Ano Novo,Collection,Quente,Mobile,Feed,49413,792,272.93,112,13030.62,1.6,0.34,2.44,47.74,14.14
+2025-05-16,Meta Ads,Ano Novo,Collection,Frio,Mobile,Stories,10626,280,457.64,13,2335.5,2.64,1.63,35.2,5.1,4.64
+2025-05-16,Meta Ads,Black Friday,Collection,Lookalike,Mobile,Stories,23639,750,163.7,34,4404.81,3.17,0.22,4.81,26.91,4.53
+2025-05-17,Google Ads,Ano Novo,Video 15s,Quente,Desktop,Reels,22343,486,464.73,70,4814.45,2.18,0.96,6.64,10.36,14.4
+2025-05-17,TikTok Ads,Cyber Monday,Carrossel,Frio,Mobile,Stories,18547,369,323.37,18,3053.41,1.99,0.88,17.96,9.44,4.88
+2025-05-17,Google Ads,Cyber Monday,Imagem,Lookalike,Desktop,Reels,34759,980,104.65,28,4318.92,2.82,0.11,3.74,41.27,2.86
+2025-05-17,Meta Ads,Black Friday,Collection,Frio,Desktop,Reels,25581,1184,389.71,138,17226.98,4.63,0.33,2.82,44.2,11.66
+2025-05-17,Google Ads,Verão,Video 15s,Quente,Mobile,Feed,34781,640,238.41,77,14043.26,1.84,0.37,3.1,58.9,12.03
+2025-05-17,Google Ads,Cyber Monday,Imagem,Quente,Desktop,Stories,23333,264,131.43,18,3061.58,1.13,0.5,7.3,23.29,6.82
+2025-05-17,Meta Ads,Ano Novo,Imagem,Quente,Mobile,Stories,8041,93,368.15,13,1852.38,1.16,3.96,28.32,5.03,13.98
+2025-05-17,Google Ads,Verão,Carrossel,Lookalike,Mobile,Reels,31015,680,474.08,97,6015.67,2.19,0.7,4.89,12.69,14.26
+2025-05-17,TikTok Ads,Ano Novo,Video 15s,Quente,Desktop,Reels,37975,1211,426.92,95,15078.78,3.19,0.35,4.49,35.32,7.84
+2025-05-17,Google Ads,Ano Novo,Imagem,Quente,Desktop,Feed,12179,242,163.82,32,2474.17,1.99,0.68,5.12,15.1,13.22
+2025-05-17,Google Ads,Cyber Monday,Imagem,Quente,Mobile,Feed,49662,1358,117.46,55,6819.53,2.73,0.09,2.14,58.06,4.05
+2025-05-18,Meta Ads,Ano Novo,Collection,Frio,Desktop,Feed,13946,518,128.88,12,1908.9,3.71,0.25,10.74,14.81,2.32
+2025-05-18,Google Ads,Verão,Collection,Quente,Mobile,Reels,5956,261,351.51,30,4104.04,4.38,1.35,11.72,11.68,11.49
+2025-05-18,TikTok Ads,Cyber Monday,Collection,Quente,Mobile,Stories,11563,129,258.21,12,2385.84,1.12,2.0,21.52,9.24,9.3
+2025-05-18,Meta Ads,Ano Novo,Video 15s,Lookalike,Desktop,Stories,47229,1150,253.54,92,7079.63,2.43,0.22,2.76,27.92,8.0
+2025-05-18,Google Ads,Black Friday,Video 15s,Quente,Desktop,Feed,46899,1168,305.05,86,10044.44,2.49,0.26,3.55,32.93,7.36
+2025-05-18,Meta Ads,Ano Novo,Video 15s,Frio,Desktop,Stories,9599,318,365.05,10,1786.98,3.31,1.15,36.51,4.9,3.14
+2025-05-18,TikTok Ads,Ano Novo,Imagem,Lookalike,Desktop,Reels,48006,1609,339.49,115,13374.92,3.35,0.21,2.95,39.4,7.15
+2025-05-18,Meta Ads,Black Friday,Collection,Lookalike,Desktop,Feed,15831,487,234.8,62,5448.51,3.08,0.48,3.79,23.2,12.73
+2025-05-18,Meta Ads,Black Friday,Video 15s,Lookalike,Mobile,Stories,11099,279,342.22,18,1455.77,2.51,1.23,19.01,4.25,6.45
+2025-05-18,Google Ads,Black Friday,Video 15s,Lookalike,Mobile,Stories,39707,825,122.83,73,5621.11,2.08,0.15,1.68,45.76,8.85
+2025-05-18,Google Ads,Verão,Video 15s,Quente,Desktop,Reels,42946,972,302.89,24,1217.78,2.26,0.31,12.62,4.02,2.47
+2025-05-18,TikTok Ads,Cyber Monday,Imagem,Quente,Desktop,Reels,28857,1411,332.04,74,4032.71,4.89,0.24,4.49,12.15,5.24
+2025-05-18,Google Ads,Black Friday,Video 15s,Lookalike,Desktop,Feed,37556,591,475.93,68,7926.25,1.57,0.81,7.0,16.65,11.51
+2025-05-18,TikTok Ads,Cyber Monday,Imagem,Quente,Desktop,Stories,42380,2056,202.12,217,18796.99,4.85,0.1,0.93,93.0,10.55
+2025-05-19,Meta Ads,Cyber Monday,Collection,Frio,Mobile,Reels,41487,1849,407.41,64,12232.4,4.46,0.22,6.37,30.02,3.46
+2025-05-19,Google Ads,Cyber Monday,Collection,Quente,Mobile,Feed,24508,898,330.87,58,10438.02,3.66,0.37,5.7,31.55,6.46
+2025-05-19,Meta Ads,Ano Novo,Collection,Quente,Mobile,Stories,26592,1192,412.95,111,10995.1,4.48,0.35,3.72,26.63,9.31
+2025-05-19,TikTok Ads,Ano Novo,Video 15s,Lookalike,Mobile,Stories,31213,859,460.55,115,15142.44,2.75,0.54,4.0,32.88,13.39
+2025-05-19,TikTok Ads,Black Friday,Imagem,Frio,Mobile,Feed,31200,721,352.08,71,6079.84,2.31,0.49,4.96,17.27,9.85
+2025-05-19,Google Ads,Cyber Monday,Carrossel,Quente,Desktop,Feed,33144,920,105.87,88,9413.17,2.78,0.12,1.2,88.91,9.57
+2025-05-19,Meta Ads,Cyber Monday,Video 15s,Frio,Desktop,Feed,33441,1607,438.87,223,19381.03,4.81,0.27,1.97,44.16,13.88
+2025-05-19,TikTok Ads,Ano Novo,Video 15s,Frio,Mobile,Reels,48790,1257,319.77,147,7516.76,2.58,0.25,2.18,23.51,11.69
+2025-05-19,TikTok Ads,Verão,Video 15s,Frio,Desktop,Reels,32764,1504,197.39,211,13759.97,4.59,0.13,0.94,69.71,14.03
+2025-05-19,Meta Ads,Ano Novo,Collection,Lookalike,Desktop,Stories,11012,382,309.23,40,5662.0,3.47,0.81,7.73,18.31,10.47
+2025-05-19,Google Ads,Ano Novo,Imagem,Lookalike,Desktop,Stories,47641,1238,490.69,157,26684.84,2.6,0.4,3.13,54.38,12.68
+2025-05-19,Google Ads,Ano Novo,Carrossel,Frio,Desktop,Feed,8654,188,417.36,8,1159.78,2.17,2.22,52.17,2.78,4.26
+2025-05-19,Meta Ads,Cyber Monday,Video 15s,Lookalike,Desktop,Stories,16130,162,355.19,14,1457.62,1.0,2.19,25.37,4.1,8.64
+2025-05-19,Meta Ads,Verão,Carrossel,Lookalike,Desktop,Reels,36401,1674,241.37,85,12761.26,4.6,0.14,2.84,52.87,5.08
+2025-05-20,TikTok Ads,Black Friday,Imagem,Quente,Mobile,Reels,42778,1495,280.71,143,18633.43,3.49,0.19,1.96,66.38,9.57
+2025-05-20,TikTok Ads,Cyber Monday,Video 15s,Quente,Mobile,Feed,46621,510,356.79,50,2938.41,1.09,0.7,7.14,8.24,9.8
+2025-05-20,TikTok Ads,Cyber Monday,Carrossel,Frio,Mobile,Feed,26400,1307,154.58,144,22156.62,4.95,0.12,1.07,143.33,11.02
+2025-05-20,Google Ads,Verão,Imagem,Frio,Desktop,Feed,49311,746,141.64,85,15650.93,1.51,0.19,1.67,110.5,11.39
+2025-05-20,TikTok Ads,Verão,Video 15s,Frio,Desktop,Stories,19210,500,246.78,32,4814.09,2.6,0.49,7.71,19.51,6.4
+2025-05-20,Google Ads,Ano Novo,Carrossel,Frio,Desktop,Reels,7475,144,316.0,19,1492.43,1.93,2.19,16.63,4.72,13.19
+2025-05-21,Google Ads,Verão,Carrossel,Frio,Mobile,Feed,24201,593,498.19,46,7061.03,2.45,0.84,10.83,14.17,7.76
+2025-05-21,TikTok Ads,Verão,Collection,Frio,Desktop,Reels,30592,514,263.79,38,7184.91,1.68,0.51,6.94,27.24,7.39
+2025-05-21,Meta Ads,Black Friday,Carrossel,Frio,Desktop,Stories,38004,562,489.67,12,1062.69,1.48,0.87,40.81,2.17,2.14
+2025-05-21,Google Ads,Black Friday,Carrossel,Frio,Mobile,Stories,31342,1397,343.39,119,12048.89,4.46,0.25,2.89,35.09,8.52
+2025-05-21,TikTok Ads,Ano Novo,Collection,Quente,Mobile,Stories,23792,321,474.78,29,4062.59,1.35,1.48,16.37,8.56,9.03
+2025-05-21,Meta Ads,Verão,Carrossel,Lookalike,Mobile,Stories,42174,694,414.51,65,8512.39,1.65,0.6,6.38,20.54,9.37
+2025-05-22,TikTok Ads,Verão,Carrossel,Frio,Mobile,Feed,16421,740,447.22,92,4915.93,4.51,0.6,4.86,10.99,12.43
+2025-05-22,Google Ads,Black Friday,Carrossel,Frio,Mobile,Stories,25609,485,482.93,45,4367.66,1.89,1.0,10.73,9.04,9.28
+2025-05-22,Meta Ads,Verão,Imagem,Lookalike,Mobile,Stories,13286,391,342.5,46,3309.98,2.94,0.88,7.45,9.66,11.76
+2025-05-22,Meta Ads,Ano Novo,Carrossel,Quente,Mobile,Reels,40732,449,154.07,65,9498.06,1.1,0.34,2.37,61.65,14.48
+2025-05-22,TikTok Ads,Ano Novo,Video 15s,Lookalike,Desktop,Stories,23268,249,341.02,16,1308.21,1.07,1.37,21.31,3.84,6.43
+2025-05-22,TikTok Ads,Ano Novo,Video 15s,Lookalike,Mobile,Feed,41618,1671,347.8,98,16405.63,4.02,0.21,3.55,47.17,5.86
+2025-05-22,TikTok Ads,Verão,Video 15s,Frio,Mobile,Feed,33141,465,376.86,13,1866.6,1.4,0.81,28.99,4.95,2.8
+2025-05-23,TikTok Ads,Ano Novo,Imagem,Quente,Desktop,Reels,20422,851,261.92,89,14243.75,4.17,0.31,2.94,54.38,10.46
+2025-05-23,Meta Ads,Cyber Monday,Carrossel,Lookalike,Mobile,Stories,15837,768,199.43,28,4260.09,4.85,0.26,7.12,21.36,3.65
+2025-05-23,Meta Ads,Black Friday,Video 15s,Quente,Mobile,Feed,10542,366,229.4,47,2650.56,3.47,0.63,4.88,11.55,12.84
+2025-05-23,TikTok Ads,Black Friday,Carrossel,Quente,Desktop,Stories,46424,668,319.18,52,5132.47,1.44,0.48,6.14,16.08,7.78
+2025-05-23,Meta Ads,Cyber Monday,Carrossel,Frio,Desktop,Feed,33411,1205,424.27,120,8396.61,3.61,0.35,3.54,19.79,9.96
+2025-05-23,Meta Ads,Black Friday,Carrossel,Quente,Desktop,Feed,35911,1489,226.16,162,28150.71,4.15,0.15,1.4,124.47,10.88
+2025-05-23,Meta Ads,Verão,Imagem,Frio,Mobile,Feed,32425,825,280.05,40,6424.6,2.54,0.34,7.0,22.94,4.85
+2025-05-23,TikTok Ads,Black Friday,Video 15s,Lookalike,Desktop,Reels,27614,1027,116.67,31,1606.3,3.72,0.11,3.76,13.77,3.02
+2025-05-23,TikTok Ads,Verão,Imagem,Lookalike,Mobile,Reels,23052,699,255.04,55,4277.86,3.03,0.36,4.64,16.77,7.87
+2025-05-23,Google Ads,Cyber Monday,Imagem,Frio,Mobile,Feed,33138,877,319.85,112,21996.65,2.65,0.36,2.86,68.77,12.77
+2025-05-24,Meta Ads,Black Friday,Carrossel,Lookalike,Desktop,Reels,30538,453,346.01,54,10544.76,1.48,0.76,6.41,30.48,11.92
+2025-05-24,Meta Ads,Black Friday,Collection,Lookalike,Desktop,Stories,39964,599,289.73,20,1384.29,1.5,0.48,14.49,4.78,3.34
+2025-05-24,Google Ads,Black Friday,Carrossel,Quente,Desktop,Stories,28953,549,248.87,41,7759.15,1.9,0.45,6.07,31.18,7.47
+2025-05-24,TikTok Ads,Cyber Monday,Collection,Quente,Mobile,Reels,16435,294,454.77,30,5309.31,1.79,1.55,15.16,11.67,10.2
+2025-05-24,Google Ads,Verão,Carrossel,Lookalike,Mobile,Reels,48950,983,402.02,78,7644.7,2.01,0.41,5.15,19.02,7.93
+2025-05-24,Google Ads,Black Friday,Video 15s,Lookalike,Desktop,Reels,25714,534,315.82,61,11880.94,2.08,0.59,5.18,37.62,11.42
+2025-05-25,Meta Ads,Verão,Imagem,Lookalike,Desktop,Reels,25567,605,265.37,71,5164.21,2.37,0.44,3.74,19.46,11.74
+2025-05-25,TikTok Ads,Verão,Carrossel,Quente,Desktop,Feed,34725,1560,354.52,185,29832.51,4.49,0.23,1.92,84.15,11.86
+2025-05-25,Google Ads,Ano Novo,Video 15s,Quente,Mobile,Stories,21832,461,177.58,61,8686.27,2.11,0.39,2.91,48.91,13.23
+2025-05-25,Google Ads,Cyber Monday,Carrossel,Quente,Desktop,Feed,30498,1144,250.1,102,5268.78,3.75,0.22,2.45,21.07,8.92
+2025-05-25,TikTok Ads,Ano Novo,Imagem,Quente,Desktop,Reels,18944,915,247.18,57,11368.66,4.83,0.27,4.34,45.99,6.23
+2025-05-25,Google Ads,Ano Novo,Carrossel,Frio,Desktop,Feed,39947,1015,357.35,123,6184.68,2.54,0.35,2.91,17.31,12.12
+2025-05-25,Meta Ads,Ano Novo,Imagem,Frio,Desktop,Reels,19537,679,242.2,83,4957.43,3.48,0.36,2.92,20.47,12.22
+2025-05-26,Google Ads,Cyber Monday,Imagem,Lookalike,Desktop,Reels,34750,1324,121.12,110,13721.22,3.81,0.09,1.1,113.29,8.31
+2025-05-26,Google Ads,Cyber Monday,Video 15s,Lookalike,Desktop,Reels,10997,175,378.17,20,2320.6,1.59,2.16,18.91,6.14,11.43
+2025-05-26,TikTok Ads,Verão,Video 15s,Lookalike,Desktop,Reels,34411,512,394.2,25,4124.71,1.49,0.77,15.77,10.46,4.88
+2025-05-26,TikTok Ads,Ano Novo,Imagem,Quente,Mobile,Stories,21184,1002,357.03,74,11994.14,4.73,0.36,4.82,33.59,7.39
+2025-05-26,Google Ads,Cyber Monday,Imagem,Frio,Mobile,Feed,19472,934,181.17,87,11994.82,4.8,0.19,2.08,66.21,9.31
+2025-05-26,Meta Ads,Ano Novo,Carrossel,Lookalike,Desktop,Stories,37373,781,307.23,45,8140.93,2.09,0.39,6.83,26.5,5.76
+2025-05-26,Meta Ads,Verão,Carrossel,Quente,Desktop,Stories,12999,226,421.06,17,2706.25,1.74,1.86,24.77,6.43,7.52
+2025-05-26,Meta Ads,Cyber Monday,Carrossel,Frio,Mobile,Feed,10105,468,412.09,9,1741.43,4.63,0.88,45.79,4.23,1.92
+2025-05-26,TikTok Ads,Ano Novo,Imagem,Quente,Desktop,Stories,20261,431,117.84,10,907.92,2.13,0.27,11.78,7.7,2.32
+2025-05-26,Meta Ads,Verão,Collection,Lookalike,Desktop,Stories,39782,1113,410.68,31,5764.93,2.8,0.37,13.25,14.04,2.79
+2025-05-26,Google Ads,Ano Novo,Imagem,Quente,Desktop,Reels,43328,1032,226.08,124,24119.14,2.38,0.22,1.82,106.68,12.02
+2025-05-26,Google Ads,Black Friday,Video 15s,Quente,Mobile,Stories,16918,766,257.38,97,6959.24,4.53,0.34,2.65,27.04,12.66
+2025-05-26,Meta Ads,Verão,Collection,Frio,Mobile,Feed,39521,697,235.31,41,2185.52,1.76,0.34,5.74,9.29,5.88
+2025-05-26,TikTok Ads,Black Friday,Video 15s,Frio,Mobile,Stories,34300,652,200.39,85,9400.72,1.9,0.31,2.36,46.91,13.04
+2025-05-27,Google Ads,Black Friday,Carrossel,Frio,Mobile,Stories,49629,1585,345.16,78,11671.0,3.19,0.22,4.43,33.81,4.92
+2025-05-27,TikTok Ads,Cyber Monday,Collection,Lookalike,Desktop,Stories,8137,113,444.79,9,1538.64,1.39,3.94,49.42,3.46,7.96
+2025-05-27,TikTok Ads,Black Friday,Collection,Quente,Mobile,Stories,21994,265,414.51,12,1957.39,1.2,1.56,34.54,4.72,4.53
+2025-05-27,Google Ads,Ano Novo,Video 15s,Frio,Desktop,Stories,10774,196,451.13,26,4227.85,1.82,2.3,17.35,9.37,13.27
+2025-05-27,Meta Ads,Cyber Monday,Collection,Lookalike,Desktop,Reels,34118,1095,137.66,70,10396.19,3.21,0.13,1.97,75.52,6.39
+2025-05-27,TikTok Ads,Verão,Collection,Quente,Desktop,Feed,28128,728,137.36,56,7651.78,2.59,0.19,2.45,55.71,7.69
+2025-05-27,Google Ads,Cyber Monday,Collection,Quente,Desktop,Stories,12239,513,258.39,71,6923.51,4.19,0.5,3.64,26.79,13.84
+2025-05-27,Google Ads,Black Friday,Collection,Frio,Mobile,Feed,11530,282,458.87,11,1758.85,2.45,1.63,41.72,3.83,3.9
+2025-05-27,Google Ads,Ano Novo,Collection,Frio,Desktop,Reels,22071,354,276.13,35,4402.34,1.6,0.78,7.89,15.94,9.89
+2025-05-27,Google Ads,Black Friday,Carrossel,Quente,Desktop,Reels,44951,2226,294.14,79,11725.19,4.95,0.13,3.72,39.86,3.55
+2025-05-27,Meta Ads,Verão,Carrossel,Quente,Desktop,Stories,25095,263,323.9,23,3673.66,1.05,1.23,14.08,11.34,8.75
+2025-05-27,Google Ads,Ano Novo,Collection,Frio,Mobile,Stories,20036,470,218.6,65,11260.96,2.35,0.47,3.36,51.51,13.83
+2025-05-27,Google Ads,Cyber Monday,Collection,Frio,Desktop,Stories,31475,710,201.73,89,5793.51,2.26,0.28,2.27,28.72,12.54
+2025-05-28,TikTok Ads,Black Friday,Imagem,Quente,Mobile,Feed,23099,1067,395.87,47,8033.68,4.62,0.37,8.42,20.29,4.4
+2025-05-28,Google Ads,Cyber Monday,Imagem,Lookalike,Mobile,Stories,16101,791,353.66,28,4994.1,4.91,0.45,12.63,14.12,3.54
+2025-05-28,TikTok Ads,Verão,Carrossel,Frio,Mobile,Stories,33795,1678,129.07,50,5202.83,4.97,0.08,2.58,40.31,2.98
+2025-05-28,Google Ads,Verão,Collection,Frio,Mobile,Feed,42396,480,221.58,50,8413.36,1.13,0.46,4.43,37.97,10.42
+2025-05-28,TikTok Ads,Ano Novo,Imagem,Lookalike,Desktop,Stories,34516,1586,360.31,211,25120.34,4.59,0.23,1.71,69.72,13.3
+2025-05-28,TikTok Ads,Cyber Monday,Imagem,Frio,Mobile,Stories,7659,193,151.54,14,2627.96,2.52,0.79,10.82,17.34,7.25
+2025-05-28,TikTok Ads,Cyber Monday,Imagem,Frio,Desktop,Feed,39518,596,383.08,87,16914.68,1.51,0.64,4.4,44.15,14.6
+2025-05-28,TikTok Ads,Ano Novo,Collection,Quente,Desktop,Stories,12230,395,351.3,35,2381.3,3.23,0.89,10.04,6.78,8.86
+2025-05-28,Meta Ads,Cyber Monday,Imagem,Frio,Mobile,Feed,36655,752,118.45,70,6649.15,2.05,0.16,1.69,56.13,9.31
+2025-05-29,Meta Ads,Cyber Monday,Carrossel,Frio,Desktop,Reels,10827,136,450.9,18,2590.68,1.26,3.32,25.05,5.75,13.24
+2025-05-29,TikTok Ads,Ano Novo,Collection,Quente,Desktop,Feed,28567,559,417.83,13,1666.82,1.96,0.75,32.14,3.99,2.33
+2025-05-29,Meta Ads,Black Friday,Video 15s,Frio,Desktop,Reels,18615,805,339.59,28,4883.0,4.32,0.42,12.13,14.38,3.48
+2025-05-29,Google Ads,Verão,Carrossel,Lookalike,Mobile,Feed,49096,540,377.78,16,1617.96,1.1,0.7,23.61,4.28,2.96
+2025-05-29,Meta Ads,Black Friday,Imagem,Lookalike,Mobile,Stories,28132,473,479.24,36,6048.45,1.68,1.01,13.31,12.62,7.61
+2025-05-29,TikTok Ads,Black Friday,Video 15s,Lookalike,Desktop,Stories,13770,496,480.21,48,8818.66,3.6,0.97,10.0,18.36,9.68
+2025-05-29,TikTok Ads,Verão,Carrossel,Frio,Mobile,Feed,33369,816,289.0,21,2539.86,2.45,0.35,13.76,8.79,2.57
+2025-05-29,Meta Ads,Black Friday,Video 15s,Quente,Mobile,Stories,34538,616,344.31,34,1952.43,1.78,0.56,10.13,5.67,5.52
+2025-05-29,Meta Ads,Black Friday,Video 15s,Quente,Desktop,Reels,22543,258,143.21,16,906.53,1.14,0.56,8.95,6.33,6.2
+2025-05-29,Meta Ads,Ano Novo,Imagem,Lookalike,Mobile,Feed,27760,718,134.84,71,3865.97,2.59,0.19,1.9,28.67,9.89
+2025-05-29,Google Ads,Black Friday,Video 15s,Lookalike,Desktop,Feed,27207,1036,497.13,38,5969.99,3.81,0.48,13.08,12.01,3.67
+2025-05-29,Google Ads,Black Friday,Collection,Frio,Mobile,Stories,49299,1823,218.69,206,11880.08,3.7,0.12,1.06,54.32,11.3
+2025-05-29,Google Ads,Cyber Monday,Collection,Quente,Mobile,Reels,40820,1762,116.22,234,34959.52,4.32,0.07,0.5,300.8,13.28
+2025-05-30,Google Ads,Ano Novo,Imagem,Frio,Mobile,Stories,37402,1266,319.83,173,25999.46,3.38,0.25,1.85,81.29,13.67
+2025-05-30,Google Ads,Cyber Monday,Imagem,Quente,Mobile,Feed,25584,917,455.22,89,6510.19,3.58,0.5,5.11,14.3,9.71
+2025-05-30,Google Ads,Ano Novo,Collection,Quente,Desktop,Stories,22154,863,148.22,118,6107.21,3.9,0.17,1.26,41.2,13.67
+2025-05-30,TikTok Ads,Cyber Monday,Video 15s,Frio,Desktop,Feed,33669,1053,279.54,32,2637.05,3.13,0.27,8.74,9.43,3.04
+2025-05-30,Google Ads,Ano Novo,Carrossel,Lookalike,Mobile,Reels,44832,1755,360.92,228,29954.68,3.91,0.21,1.58,83.0,12.99
+2025-05-30,TikTok Ads,Ano Novo,Collection,Lookalike,Mobile,Reels,15213,632,278.57,78,5056.82,4.15,0.44,3.57,18.15,12.34
+2025-05-30,Meta Ads,Verão,Imagem,Quente,Desktop,Feed,20434,680,248.47,66,9692.83,3.33,0.37,3.76,39.01,9.71
+2025-05-30,Meta Ads,Cyber Monday,Collection,Quente,Desktop,Reels,44332,2021,238.35,81,8188.34,4.56,0.12,2.94,34.35,4.01
+2025-05-30,Meta Ads,Verão,Carrossel,Quente,Mobile,Reels,16738,441,224.49,47,7202.33,2.63,0.51,4.78,32.08,10.66
